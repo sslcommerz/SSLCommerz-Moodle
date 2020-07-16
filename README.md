@@ -8,7 +8,7 @@ This plugin helps admins and webmasters use SSLCommerz as the payment gateway. S
 
 Login to your moodle site as an `admin user` and follow the steps.
 
-1) Upload the zip package from `Site administration` > `Plugins` > `Install plugins`. Choose Plugin type `Enrolment method (enrol)`. Upload the ZIP package, check the acknowledgement and install.
+1) Upload the zip of `sslcommerz` from `Site administration` > `Plugins` > `Install plugins`. Choose Plugin type `Enrolment method (enrol)`. Upload the ZIP package, check the acknowledgement and install.
 
 2) Go to `Enrolments` > `Manage enrol plugins` > `Enable SSLCOmmerz` from list
 
